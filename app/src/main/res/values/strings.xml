@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AspHire</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_number">Number</string>
+    <string name="hint_password">Password</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="error_name">Enter your full name</string>
+    <string name="error_email">Enter valid email address</string>
+    <string name="error_number">Enter 10 digits number</string>
+    <string name="error_password">Enter the password</string>
+
+    <string name="signin_button">Sign In</string>
+    <string name="create_account"><u>Create an account</u></string>
+    <string name="log_out"><u>logout</u></string>
+</resources>
